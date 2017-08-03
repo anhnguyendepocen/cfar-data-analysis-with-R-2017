@@ -19,6 +19,8 @@ Please contact Kelly Plonk <kell.plonk@duke.edu> with questions.
    :caption: Course Coverage
 
    notebooks/Introduction to R and RStuido.ipynb
-   notebooks/Visualizing data with ggplot2.ipynb
+   notebooks//Exercises_1.ipynb
+   notebooks/Visualizing data with ggplot2.
+   notebooks//Exercises_2.ipynb
    notebooks/Analyzing data with dplyr.ipynb
    notebooks/Preparing data for analysis with tidyr.ipynb
