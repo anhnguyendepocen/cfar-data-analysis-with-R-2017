@@ -20,7 +20,7 @@ Please contact Kelly Plonk <kell.plonk@duke.edu> with questions.
 
    notebooks/Introduction to R and RStuido.ipynb
    notebooks//Exercises_1.ipynb
-   notebooks/Visualizing data with ggplot2.
+   notebooks/Visualizing data with ggplot2.ipynb
    notebooks//Exercises_2.ipynb
    notebooks/Analyzing data with dplyr.ipynb
    notebooks/Preparing data for analysis with tidyr.ipynb
