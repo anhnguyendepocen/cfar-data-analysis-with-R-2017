@@ -31,3 +31,5 @@ Exercise sheets
 
   notebooks//Exercises_1.ipynb
   notebooks//Exercises_2.ipynb
+  notebooks//Exercises_3.ipynb
+  notebooks//Exercises_4.ipynb
