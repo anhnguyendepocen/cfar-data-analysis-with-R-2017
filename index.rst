@@ -13,14 +13,21 @@ The course will be limited to a maximum of 30 participants on a first-come-first
 
 Please contact Kelly Plonk <kell.plonk@duke.edu> with questions.
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Course Coverage
 
    notebooks/Introduction to R and RStuido.ipynb
-   notebooks//Exercises_1.ipynb
    notebooks/Visualizing data with ggplot2.ipynb
-   notebooks//Exercises_2.ipynb
    notebooks/Analyzing data with dplyr.ipynb
    notebooks/Preparing data for analysis with tidyr.ipynb
+
+Exercise sheets
+---------------
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Exercises
+
+  notebooks//Exercises_1.ipynb
+  notebooks//Exercises_2.ipynb
