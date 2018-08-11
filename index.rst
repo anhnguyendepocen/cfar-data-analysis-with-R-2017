@@ -13,6 +13,19 @@ The course will be limited to a maximum of 30 participants on a first-come-first
 
 Please contact Kelly Plonk <kell.plonk@duke.edu> with questions.
 
+Update: The course is now full. If you register now, you will be put on a wait list.
+
+Before the course starts
+------------------------
+
+- `Install R <http://archive.linux.duke.edu/cran/>`_
+- `Install RStudio Desktop <https://www.rstudio.com/products/rstudio/download/>`_
+
+Check that you can launch RStudio successfully.
+
+Schedule
+--------
+
 .. toctree::
    :maxdepth: 2
    :caption: Course Coverage
